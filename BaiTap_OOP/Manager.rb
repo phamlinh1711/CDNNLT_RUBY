@@ -31,7 +31,7 @@ class Engineer < CanBo
         super
         puts "Branch - #{branch}"
     end
-end
+end 
 class Staff < CanBo 
     attr_accessor: :task
     def initialize (name, age, gender, address, task)

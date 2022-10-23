@@ -20,7 +20,7 @@ class Xe_133
         @hangsx_133 = gets.chomp
         puts "Nhap nam san xuat: "
         @namsx_133 = gets.chomp
-        puts "Nhap dong xe: "
+        puts "Nhap dong xe: "                     
         @dongxe_133 = gets.chomp
         puts "Nhap gia ban: "
         @giaban_133 = gets.chomp
